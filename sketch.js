@@ -88,7 +88,7 @@ if (stage == 2){
 }
 
 if(mouseIsPressed == true && stage == 0){
-  stage = 5;
+  stage = 1;
 }
 }
 
